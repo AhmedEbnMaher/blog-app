@@ -1,0 +1,39 @@
+.homeContent{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+.post{
+    background-color: #ffffff;
+    width: 60%;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 10px;
+    margin: auto;
+    margin-bottom: 10px;
+    @media (max-width:768px) {
+        width: 90%;
+       }
+    
+}
+.postHeader{
+    min-height: 36px;
+    border-bottom: 1px solid #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.postHeader h5{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #535050;
+}
+.postContent{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    color: #767676;
+    font-size: 14px;
+    line-height: 1.5rem;
+
+}

@@ -1,0 +1,16 @@
+.textArea{
+    width: 90%;
+ max-width:90%;
+ border: 1px solid #ccc;
+ padding: 30px;
+ border-radius: 10px;
+ outline: #ccc;
+ max-height: 50vh;
+ color:#767676  ;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 14px;
+ @media (max-width:768px) {
+    width: 80%;
+   }
+ 
+}

@@ -1,0 +1,11 @@
+.textInput{
+ width:95%;
+ border: 1px solid #ccc;
+ border-radius: 10px;
+ outline: #ccc;
+ padding: 10px;
+ color:#767676  ;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 14px;
+ margin-bottom: 20px;
+}

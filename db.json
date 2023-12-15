@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "content": "this tutorial, we will learn how to use a JSON file as a server for a fake API in React JS. This is useful when we want to test our application without relying on a real API. By using a JSON file as a fake API, we can easily mock API responses and test different scenarios without making real API calls. "
+    },
+    {
+      "title": " nextJs",
+      "content": "Whether you work on your own or with thousands of other developers, using React feels the same. It is designed to let you seamlessly combine components written by independent people, teams, and organizations good build view",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "title": " React JS",
+      "content": "Whether you work on your own or with thousands of other developers, using React feels the same. It is designed to let you seamlessly combine components written by independent people, teams, and organizations"
+    },
+    {
+      "title": " typescript",
+      "content": "Whether you work on your own or with thousands of other developers, using React feels the same. It is designed to let you seamlessly combine components written by independent people, teams, and organizations",
+      "id": 5
+    },
+    {
+      "title": "Egypt History",
+      "content": "Ancient Egyptian civilization coalesced around 3150 BC with the political unification of Upper and Lower Egypt under the first king of the First Dynasty, Narmer. Predominantly native Egyptian rule lasted until the conquest by the Achaemenid Empire in the sixth century BC",
+      "id": 6
+    },
+    {
+      "title": "javaScript",
+      "content": "JavaScript is the world's most popular programming language.\n\nJavaScript is the programming language of the Web.\n\nJavaScript is easy to learn.\n\nThis tutorial will teach you JavaScript from basic to advanced.",
+      "id": 7
+    }
+  ]
+}

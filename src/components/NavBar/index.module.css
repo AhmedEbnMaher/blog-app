@@ -1,0 +1,27 @@
+
+.root{
+    background-color:#ffffff;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 500;
+}
+.navBar{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.addPost{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    color :#0a66c2;
+}
+.addIcon{
+    margin-bottom:-5px ;
+}

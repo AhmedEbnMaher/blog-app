@@ -1,0 +1,17 @@
+.logo{
+ background-color: #0a66c2;
+ width: 100px;
+ padding: 5px;
+ padding-top: 10px;
+ padding-bottom: 10px;
+ display: flex;
+ justify-content: center;
+ align-items: center; 
+ border-radius: 5px;
+ box-shadow: 1px 1px 1px #ccc;
+}
+.logoLink{
+    text-decoration: none;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

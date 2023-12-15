@@ -1,0 +1,43 @@
+.createPostContent{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+.postInput{
+    background-color: #ffffff;
+    width: 70%;
+    padding: 30px;
+    border-radius: 10px;
+    border:1px solid #ccc;
+    @media (max-width:768px) {
+       width: 100%;
+      }
+}
+.text{
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    color:#767676 ;
+    padding: 20px;
+    padding-left: 0;
+}
+.createPost{
+    background-color: #0a66c2;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: none;
+    cursor: pointer;
+   
+}
+.createPost:hover{
+    background-color: #0a66c2;
+}
+.createSection{
+    width: 97.5%;
+    display: flex;
+    justify-content: end;
+    margin-top: 20px;
+}
